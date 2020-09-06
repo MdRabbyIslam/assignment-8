@@ -1,0 +1,27 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    text-align: center;
+    background: rgb(107, 139, 74);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    line-height: 60px;
+    font-size: 40px;
+    padding: 20px;
+}
+.navLinks{
+    background: rgb(92, 93, 94);
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    color: white;
+    padding: 12px;
+}
+.singleLink {
+    color: white;
+    background-color: "skyBlue";
+} */

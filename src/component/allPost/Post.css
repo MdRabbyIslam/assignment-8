@@ -1,0 +1,14 @@
+.post-div{
+    border: 2px solid purple;
+    margin: 15px 5px;
+    padding: 10px;
+    text-align: left;
+}
+.posts{
+    position: relative;
+}
+.back{
+    position: absolute;
+    top: 15px ;
+    right: 15px;
+}

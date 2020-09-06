@@ -1,0 +1,23 @@
+.post-details{
+    text-align: left;
+    margin: 20px 10px;
+    padding: 15px;
+}
+.comment-details{
+   display: flex; 
+}
+.commentor-info{
+    margin-left: 10px;
+}
+.img-container{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid purple;
+    overflow: hidden;
+}
+.img{
+
+    height: 100%;
+    width: 100%;
+}
